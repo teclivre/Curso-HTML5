@@ -28,10 +28,15 @@ header#cabecalho img#icon {
 
 }
 
+header#cabacalho img#logo1 {
+    position: absolute;
+    top: 300px;
+}
+
 header#cabecalho {
     border-bottom: 2px rgba(170, 170, 170, 1) solid;
     height: 150px;
-    background: url(../_imagens/teclivre-logo-peq.png) no-repeat 0px 100px;   
+    background: url(../_imagens/teclivre-logo-peq.png) no-repeat 0px 100px; 
 
 }
 
